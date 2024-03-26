@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Django and React Native<br>🎯 Goals: Create innovative and beatiful websites<br>🎲 Fun fact: Not developing yourself with the Software industry makes you a garrulous or oblivious developer</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Django and React Native<br>🎯 Goals: Create innovative and beautiful websites<br>🎲 Fun fact: Not developing yourself with the Software industry makes you a garrulous or oblivious developer</p>
 
 ###
 
