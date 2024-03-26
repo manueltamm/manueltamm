@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Manuel and I'm a professional bug writer, from Germany</p>
+<p align="left">My name is Manuel and I'm a professional bug developer from Germany</p>
 
 ###
 
